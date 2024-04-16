@@ -1,3 +1,8 @@
+# NFT_CONTRACT-1
+
+address NFT : https://sepolia.etherscan.io/address/0xcee2561869dbcb929e521284d2bf166d67818ffd#writeContract
+address ERC20 : https://sepolia.etherscan.io/address/0x52537989d0bba01f7f18f0ff4a410cb7bde37d41#writeContract
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
@@ -97,7 +102,3 @@ $ forge script script/NFT.s.sol:NFTScript --rpc-url $SEPOLIAAPIKEY
  forge script script/NFT.s.sol:NFTScript --rpc-url $SEPOLIAAPIKEY --broadcast --verify -vvvv --sender 0xbe07B7EEF81DcB04cC9E03c073ef93CBcD52b226 --private-key $DEV_PRIVATE_KEY
 ```
 
-# NFT_CONTRACT-1
-
-address NFT : https://sepolia.etherscan.io/address/0xcee2561869dbcb929e521284d2bf166d67818ffd#writeContract
-address ERC20 : https://sepolia.etherscan.io/address/0x52537989d0bba01f7f18f0ff4a410cb7bde37d41#writeContract
